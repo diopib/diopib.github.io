@@ -1,3 +1,8 @@
+---
+layout: post
+title: Technological advancement and Nature
+---
+
 I tweeted this today:
 <blockquote class="twitter-tweet" lang="fr"><p>Technology advancement is somehow taking us backward, to the natural state of things, only with much more automation. <a href="https://twitter.com/hashtag/tech?src=hash">#tech</a> <a href="https://twitter.com/hashtag/wisdom?src=hash">#wisdom</a></p>&mdash; Ibrahim (@diopib) <a href="https://twitter.com/diopib/status/552279060727222273">January 5, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
